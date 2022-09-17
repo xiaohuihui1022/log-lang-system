@@ -1,0 +1,14 @@
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\bin\Debug\LogTest.exe.config
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\bin\Debug\LogTest.exe
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\bin\Debug\LogTest.pdb
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\bin\Debug\LogSystem.dll
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\bin\Debug\LogSystem.pdb
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\obj\Debug\LogTest.csprojAssemblyReference.cache
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\obj\Debug\LogTest.csproj.CoreCompileInputs.cache
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\obj\Debug\LogTest.csproj.CopyComplete
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\obj\Debug\LogTest.exe
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\obj\Debug\LogTest.pdb
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\bin\Debug\LangSystem.dll
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\bin\Debug\LangSystem.pdb
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\obj\Debug\LogTest.ChangeLangWin.resources
+D:\C#类编程文件\带工程\logSys\LogSystem\LogTest\obj\Debug\LogTest.csproj.GenerateResource.cache

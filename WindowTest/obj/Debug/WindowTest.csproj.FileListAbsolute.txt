@@ -1,0 +1,15 @@
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\bin\Debug\WindowTest.exe.config
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\bin\Debug\WindowTest.exe
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\bin\Debug\WindowTest.pdb
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\bin\Debug\LangSystem.dll
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\bin\Debug\LogSystem.dll
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\bin\Debug\LangSystem.pdb
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\bin\Debug\LogSystem.pdb
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\obj\Debug\WindowTest.csprojAssemblyReference.cache
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\obj\Debug\WindowTest.Form1.resources
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\obj\Debug\WindowTest.Properties.Resources.resources
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\obj\Debug\WindowTest.csproj.GenerateResource.cache
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\obj\Debug\WindowTest.csproj.CoreCompileInputs.cache
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\obj\Debug\WindowTest.csproj.CopyComplete
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\obj\Debug\WindowTest.exe
+D:\C#类编程文件\带工程\logSys\LogSystem\WindowTest\obj\Debug\WindowTest.pdb

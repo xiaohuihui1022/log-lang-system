@@ -1,0 +1,230 @@
+[20:36:36] [INFO] [Thread.Main]: 语言模块已加载
+[20:36:36] [INFO] [Thread.Main]: 已为语种 Chinese 写入值 log.awa
+[20:36:36] [INFO] [Thread.Main]: 已修改CreateLangType
+[20:36:36] [INFO] [Thread.Main]: 语种设置成功
+[20:36:36] [INFO] [Thread.Main]: 已为语种 Chinese 写入值 log.ukwarning
+[20:36:36] [INFO] [Thread.Main]: 已为语种 Chinese 写入值 log.ukerror
+[20:36:36] [INFO] [Thread.Main]: 已为语种 Chinese 写入值 window.clw
+[20:36:36] [INFO] [Thread.Main]: 已修改CreateLangType
+[20:36:36] [INFO] [Thread.Main]: 已为语种 English 写入值 log.ukwarning
+[20:36:36] [INFO] [Thread.Main]: 已为语种 English 写入值 log.ukerror
+[20:36:37] [INFO] [Thread.Main]: 已为语种 English 写入值 window.clw
+[20:36:37] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.awa
+[20:36:37] [INFO] [Thread.Main]: 已为语种 English 写入值 log.awa
+[20:36:37] [INFO] [Thread.Main]: awa
+[20:36:37] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukwarning
+[20:36:37] [WARN] [Thread.Main]: 糟糕！程序出现了一些故障。
+[20:36:37] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukerror
+[20:36:37] [ERROR] [Thread.Main]: 糟糕，程序有错误了！
+[20:36:37] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:37] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:37] [INFO] [Thread.Main]: awa
+[20:36:37] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:37] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:37] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:37] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:37] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:37] [INFO] [Thread.Main]: awa
+[20:36:37] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:37] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:37] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:38] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:38] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:38] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:38] [INFO] [Thread.Main]: awa
+[20:36:38] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:38] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:38] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:38] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:38] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:38] [INFO] [Thread.Main]: awa
+[20:36:38] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:38] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:38] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:38] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:38] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:38] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:38] [INFO] [Thread.Main]: awa
+[20:36:38] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:38] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:38] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:39] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:39] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:39] [INFO] [Thread.Main]: awa
+[20:36:39] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:39] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:39] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:39] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:39] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:39] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:39] [INFO] [Thread.Main]: awa
+[20:36:39] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:39] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:39] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:39] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:39] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:39] [INFO] [Thread.Main]: awa
+[20:36:39] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:39] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:39] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:39] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:40] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:40] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:40] [INFO] [Thread.Main]: awa
+[20:36:40] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:40] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:40] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:40] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:40] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:40] [INFO] [Thread.Main]: awa
+[20:36:40] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:40] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:40] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:40] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:40] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:40] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:40] [INFO] [Thread.Main]: awa
+[20:36:40] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:40] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:40] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:40] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:41] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:41] [INFO] [Thread.Main]: awa
+[20:36:41] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:41] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:41] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:41] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:41] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:41] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:41] [INFO] [Thread.Main]: awa
+[20:36:41] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:41] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:41] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:41] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:41] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:41] [INFO] [Thread.Main]: awa
+[20:36:41] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:41] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:41] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:41] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:41] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:42] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:42] [INFO] [Thread.Main]: awa
+[20:36:42] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:42] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:42] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:42] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:42] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:42] [INFO] [Thread.Main]: awa
+[20:36:42] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:42] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:42] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:42] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:42] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:42] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:42] [INFO] [Thread.Main]: awa
+[20:36:42] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:42] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:42] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:42] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:42] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:56] [INFO] [Thread.Main]: 已为语种 Chinese 写入值 log.ukwarning
+[20:36:56] [INFO] [Thread.Main]: 已为语种 Chinese 写入值 log.ukerror
+[20:36:56] [INFO] [Thread.Main]: 已为语种 Chinese 写入值 log.awa
+[20:36:56] [INFO] [Thread.Main]: 已修改CreateLangType
+[20:36:56] [INFO] [Thread.Main]: 已为语种 Chinese 写入值 window.clw
+[20:36:56] [INFO] [Thread.Main]: 已修改CreateLangType
+[20:36:56] [INFO] [Thread.Main]: 已为语种 English 写入值 log.awa
+[20:36:56] [INFO] [Thread.Main]: 已为语种 English 写入值 log.ukwarning
+[20:36:56] [INFO] [Thread.Main]: 已为语种 English 写入值 log.ukerror
+[20:36:56] [INFO] [Thread.Main]: 已为语种 English 写入值 window.clw
+[20:36:56] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:56] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.awa
+[20:36:56] [INFO] [Thread.Main]: awa
+[20:36:56] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukwarning
+[20:36:56] [WARN] [Thread.Main]: 糟糕！程序出现了一些故障。
+[20:36:56] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukerror
+[20:36:56] [ERROR] [Thread.Main]: 糟糕，程序有错误了！
+[20:36:56] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:56] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:56] [INFO] [Thread.Main]: awa
+[20:36:57] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:57] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:57] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:57] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:57] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:57] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.awa
+[20:36:57] [INFO] [Thread.Main]: awa
+[20:36:57] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukwarning
+[20:36:57] [WARN] [Thread.Main]: 糟糕！程序出现了一些故障。
+[20:36:57] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukerror
+[20:36:57] [ERROR] [Thread.Main]: 糟糕，程序有错误了！
+[20:36:57] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:57] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:57] [INFO] [Thread.Main]: awa
+[20:36:57] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:57] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:57] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:57] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:57] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:57] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.awa
+[20:36:58] [INFO] [Thread.Main]: awa
+[20:36:58] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukwarning
+[20:36:58] [WARN] [Thread.Main]: 糟糕！程序出现了一些故障。
+[20:36:58] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukerror
+[20:36:58] [ERROR] [Thread.Main]: 糟糕，程序有错误了！
+[20:36:58] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:58] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:58] [INFO] [Thread.Main]: awa
+[20:36:58] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:58] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:58] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:58] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:58] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:58] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.awa
+[20:36:58] [INFO] [Thread.Main]: awa
+[20:36:58] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukwarning
+[20:36:58] [WARN] [Thread.Main]: 糟糕！程序出现了一些故障。
+[20:36:58] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukerror
+[20:36:58] [ERROR] [Thread.Main]: 糟糕，程序有错误了！
+[20:36:58] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:59] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:59] [INFO] [Thread.Main]: awa
+[20:36:59] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:59] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:59] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:59] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:36:59] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:59] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.awa
+[20:36:59] [INFO] [Thread.Main]: awa
+[20:36:59] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukwarning
+[20:36:59] [WARN] [Thread.Main]: 糟糕！程序出现了一些故障。
+[20:36:59] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukerror
+[20:36:59] [ERROR] [Thread.Main]: 糟糕，程序有错误了！
+[20:36:59] [INFO] [Thread.Main]: 已设置NowLangType
+[20:36:59] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:36:59] [INFO] [Thread.Main]: awa
+[20:36:59] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:36:59] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:36:59] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:36:59] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:37:00] [INFO] [Thread.Main]: 已设置NowLangType
+[20:37:00] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.awa
+[20:37:00] [INFO] [Thread.Main]: awa
+[20:37:00] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukwarning
+[20:37:00] [WARN] [Thread.Main]: 糟糕！程序出现了一些故障。
+[20:37:00] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukerror
+[20:37:00] [ERROR] [Thread.Main]: 糟糕，程序有错误了！
+[20:37:00] [INFO] [Thread.Main]: 已设置NowLangType
+[20:37:00] [INFO] [Thread.Main]: 已从语种 English 读出值 log.awa
+[20:37:00] [INFO] [Thread.Main]: awa
+[20:37:00] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukwarning
+[20:37:00] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[20:37:00] [INFO] [Thread.Main]: 已从语种 English 读出值 log.ukerror
+[20:37:00] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[20:37:00] [INFO] [Thread.Main]: 已设置NowLangType
+[20:37:00] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.awa
+[20:37:00] [INFO] [Thread.Main]: awa
+[20:37:00] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukwarning
+[20:37:00] [WARN] [Thread.Main]: 糟糕！程序出现了一些故障。
+[20:37:00] [INFO] [Thread.Main]: 已从语种 Chinese 读出值 log.ukerror
