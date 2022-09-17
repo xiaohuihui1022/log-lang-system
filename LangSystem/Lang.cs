@@ -208,7 +208,14 @@ namespace LangSystem
         /// <param name="ToChangeIndex">欲修改的语种数组下标</param>
         public void ChangeReadLangType(int ToChangeIndex)
         {
-            if (LangTypeText.Equals(null))
+            try
+            {
+                if (LangTypeText.Equals(null))
+                {
+                    
+                }
+            }
+            catch
             {
                 log.Error(" 请先设置一个LangType");
                 return;
