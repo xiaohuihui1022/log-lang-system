@@ -1,6 +1,0 @@
-D:\C#类编程文件\带工程\logSys\LogSystem\LogSystem\bin\Debug\LogSystem.dll
-D:\C#类编程文件\带工程\logSys\LogSystem\LogSystem\bin\Debug\LogSystem.pdb
-D:\C#类编程文件\带工程\logSys\LogSystem\LogSystem\obj\Debug\LogSystem.csprojAssemblyReference.cache
-D:\C#类编程文件\带工程\logSys\LogSystem\LogSystem\obj\Debug\LogSystem.csproj.CoreCompileInputs.cache
-D:\C#类编程文件\带工程\logSys\LogSystem\LogSystem\obj\Debug\LogSystem.dll
-D:\C#类编程文件\带工程\logSys\LogSystem\LogSystem\obj\Debug\LogSystem.pdb
