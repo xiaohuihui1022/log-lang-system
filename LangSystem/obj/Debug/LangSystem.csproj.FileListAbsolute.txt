@@ -1,9 +1,0 @@
-D:\C#类编程文件\带工程\logSys\LogSystem\LangSystem\bin\Debug\LangSystem.dll
-D:\C#类编程文件\带工程\logSys\LogSystem\LangSystem\bin\Debug\LangSystem.pdb
-D:\C#类编程文件\带工程\logSys\LogSystem\LangSystem\obj\Debug\LangSystem.csprojAssemblyReference.cache
-D:\C#类编程文件\带工程\logSys\LogSystem\LangSystem\obj\Debug\LangSystem.csproj.CoreCompileInputs.cache
-D:\C#类编程文件\带工程\logSys\LogSystem\LangSystem\obj\Debug\LangSystem.dll
-D:\C#类编程文件\带工程\logSys\LogSystem\LangSystem\obj\Debug\LangSystem.pdb
-D:\C#类编程文件\带工程\logSys\LogSystem\LangSystem\bin\Debug\LogSystem.dll
-D:\C#类编程文件\带工程\logSys\LogSystem\LangSystem\bin\Debug\LogSystem.pdb
-D:\C#类编程文件\带工程\logSys\LogSystem\LangSystem\obj\Debug\LangSystem.csproj.CopyComplete
