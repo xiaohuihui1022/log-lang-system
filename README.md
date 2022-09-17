@@ -67,7 +67,7 @@ namespace langtest
         lang.CLS("欢迎来到WT", "wtl.start.title");
         lang.CLS("你可以在这里做任何你想做的事". "wtl.start.tip");
         lang.CCLT(1) // English
-            lang.CLS("Welcome to WindyTown!", "wtl.start.title");
+        lang.CLS("Welcome to WindyTown!", "wtl.start.title");
         lang.CLS（"U can do everything u want to do", "wtl.start.tip")
     }
 }
