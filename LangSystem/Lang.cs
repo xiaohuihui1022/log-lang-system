@@ -35,10 +35,10 @@ namespace LangSystem
         private bool IsInit = false;
         private bool IsSetType = false;
         private string[] LangTypeText = null;    // 设置全局语言数组
-        private int NowTypeIndex = 0;    // 不设置默认为LangType的第一位语言
-        private int CreateTypeIndex = 0; // 上面那个是读的，这是写的
         INI ini = new INI();            // ini导包
         Log log = new Log();            // 自己的log导包
+        public int NowTypeIndex = 0;    // 不设置默认为LangType的第一位语言
+        private int CreateTypeIndex = 0; // 上面那个是读的，这是写的
         # endregion
 
         # region DLL初始化阶段
@@ -49,6 +49,7 @@ namespace LangSystem
         {
             if (CheckInitType("checkinit"))
             {
+                NowTypeIndex = int.Parse(ini.INIRead("langSys", "NowTypeIndex", @".\lang\settings.ini"));
                 return;
             }
             if (!Directory.Exists(@".\lang\"))
@@ -164,6 +165,18 @@ namespace LangSystem
         /// <param name="ToChangeIndex">欲修改的语种数组下标</param>
         public void CRLT(int ToChangeIndex)
         {
+            try
+            {
+                if (LangTypeText.Equals(null))
+                {
+
+                }
+            }
+            catch
+            {
+                log.Error(" 请先设置一个LangType");
+                return;
+            }
             if (LangTypeText == null)
             {
                 log.Error("请先设置一个LangType");
@@ -208,27 +221,7 @@ namespace LangSystem
         /// <param name="ToChangeIndex">欲修改的语种数组下标</param>
         public void ChangeReadLangType(int ToChangeIndex)
         {
-            try
-            {
-                if (LangTypeText.Equals(null))
-                {
-                    
-                }
-            }
-            catch
-            {
-                log.Error(" 请先设置一个LangType");
-                return;
-            }
-            NowTypeIndex = ToChangeIndex;
-            try
-            {
-                ini.INIWrite("langSys", "NowTypeIndex", ToChangeIndex.ToString(), @".\lang\settings.ini");
-            }
-            catch
-            {
-                throw;
-            }
+            CRLT(ToChangeIndex);
         }
 
         /// <summary>
@@ -271,8 +264,7 @@ namespace LangSystem
                     {
                         IsSetType = true;
                         LangTypeText = String2Array(
-                            ini.INIRead("langSys", "LangTypeText", @".\lang\settings.ini"), ';'
-                            );
+                            ini.INIRead("langSys", "LangTypeText", @".\lang\settings.ini"), ';');
                         return true;
                     }
                 }
@@ -287,7 +279,7 @@ namespace LangSystem
                 }
                 if (IsSetType == false)
                 {
-                    log.Error(" 请先SetType");
+                    log.Error("请先SetType");
                     return false;
                 }
                 return true;

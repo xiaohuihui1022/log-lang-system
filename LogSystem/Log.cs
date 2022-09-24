@@ -71,9 +71,12 @@ namespace LogSystem
             LogWrite(error, "ERROR");
             Console.ForegroundColor = ConsoleColor.Gray;
         }
-        // 2017-07-24格式
-        private readonly string NowDate = DateTime.Now.ToString("yyyy.MM.dd");
-
+        // 2017.07.24格式
+        public readonly string NowDate = DateTime.Now.ToString("yyyy.MM.dd");
+        public string GetTodayLog()
+        {
+            return File.ReadAllText(@".\logs\" + NowDate + "\\" + NowDate + ".log"); ;
+        }
         public void LogWriteInit()
         {
             // log文件不存在，就创建

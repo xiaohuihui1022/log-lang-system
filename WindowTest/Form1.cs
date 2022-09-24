@@ -29,13 +29,15 @@ namespace WindowTest
             string[] LangType = { "Chinese", "English" };
             lang.SetLangType(LangType);
             comboBox1.Items.AddRange(LangType);
-            comboBox1.SelectedIndex = 0;
+            comboBox1.SelectedIndex = lang.NowTypeIndex;
             langChanged();
         }
         
         private void Form1_Load_1(object sender, EventArgs e)
         {
-            log.Info(lang.RLS("main.openwindow"));
+            this.log.Info(lang.RLS("main.openwindow"));
+            this.button1.Text = lang.RLS("main.b1");
+            this.button2.Text = lang.RLS("main.b2");
         }
 
         private void Form1_LocationChanged(object sender, EventArgs e)
@@ -64,6 +66,10 @@ namespace WindowTest
             lang.CLS("位置：", "main.location");
             lang.CLS("大小：", "main.size");
             lang.CLS("语言已切换为:", "lang.change");
+            lang.CLS("查看日志", "main.b1");
+            lang.CLS("日志预览窗口", "main.b2");
+            lang.CLS("日志查看窗口已打开", "main.bopen");
+            lang.CLS("日志预览窗口已打开", "main.b2open");
             lang.ChangeCreateLangType(1);
             lang.CreateLangStr("Opened Window", "main.openwindow");
             lang.CLS("Window's location has been moved，", "main.windowmove");
@@ -71,12 +77,32 @@ namespace WindowTest
             lang.CLS("Location:", "main.location");
             lang.CLS("Size:", "main.size");
             lang.CLS("Lang has been changed to:", "lang.change");
+            lang.CLS("Show log", "main.b1");
+            lang.CLS("Log Viewer", "main.b2");
+            lang.CLS("Window:Log has been opened", "main.bopen");
+            lang.CLS("Window:Log Viewer has been opened", "main.b2open");
+
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             lang.ChangeReadLangType(comboBox1.SelectedIndex);
             log.Info(lang.RLS("lang.change") + comboBox1.SelectedItem);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string v_OpenFolderPath = @".\logs\" + log.NowDate + "\\" + log.NowDate + ".log";
+            System.Diagnostics.Process.Start("explorer.exe", v_OpenFolderPath);
+            log.Info(lang.RLS("main.bopen"));
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            logviewer logviewer = new logviewer();
+            logviewer.Show();
+            log.Info(lang.RLS("main.b2open"));
+
         }
     }
 }
