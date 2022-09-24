@@ -26,9 +26,16 @@ namespace WindowTest
             log.LogWriteInit();
             log.TimeShowSet(true);
             lang.Init();
-            string[] LangType = { "Chinese", "English" };
-            lang.SetLangType(LangType);
-            comboBox1.Items.AddRange(LangType);
+            if (System.IO.File.Exists(@".\lang\settings.ini"))
+            {
+                comboBox1.Items.AddRange(lang.LangTypeText);
+            }
+            else
+            {
+                string[] LangType = { "Chinese", "English" };
+                lang.SetLangType(LangType);
+                comboBox1.Items.AddRange(LangType);
+            }
             comboBox1.SelectedIndex = lang.NowTypeIndex;
             langChanged();
         }

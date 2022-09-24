@@ -34,7 +34,7 @@ namespace LangSystem
         #region 相关变量定义
         private bool IsInit = false;
         private bool IsSetType = false;
-        private string[] LangTypeText = null;    // 设置全局语言数组
+        public string[] LangTypeText = null;    // 设置全局语言数组
         INI ini = new INI();            // ini导包
         Log log = new Log();            // 自己的log导包
         public int NowTypeIndex = 0;    // 不设置默认为LangType的第一位语言
@@ -50,6 +50,7 @@ namespace LangSystem
             if (CheckInitType("checkinit"))
             {
                 NowTypeIndex = int.Parse(ini.INIRead("langSys", "NowTypeIndex", @".\lang\settings.ini"));
+                CheckInitType("checklangtype");
                 return;
             }
             if (!Directory.Exists(@".\lang\"))
@@ -61,7 +62,6 @@ namespace LangSystem
             // log.Info("语言模块已加载");
             ini.INIWrite("langSys", "IsInit", "true", @".\lang\settings.ini");
         }
-
         /// <summary>
         /// 设置语种
         /// </summary>
