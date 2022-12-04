@@ -18,7 +18,7 @@
 using LogSystem
 namespace LogTest
 {
-    class Pgrm
+    class Prgm
     {
         static Log log = new Log();
         static void Main(string[] args)
@@ -50,27 +50,31 @@ namespace LogTest
 using LangSystem;
 namespace langtest
 {
-    Lang lang = new Lang();
-    static void main(string[] args)
-    {
-        lang.Init();
-        String[] LangType = {"Chinese", "English"};
-        lang.SetLangType(LangType);
-        langInit();
-        CRLT(0) // 切换Chinsese
-        Console.WriteLine(lang.RLS("wtl.start.title"));
-        Console.WriteLine(lang.RLS("wtl.start.tip"));
-    }
-    void langInit()
-    {
-        lang.CCLT(0); // Chinese
-        lang.CLS("欢迎来到WT", "wtl.start.title");
-        lang.CLS("你可以在这里做任何你想做的事". "wtl.start.tip");
-        lang.CCLT(1) // English
-        lang.CLS("Welcome to WindyTown!", "wtl.start.title");
-        lang.CLS（"U can do everything u want to do", "wtl.start.tip")
+    class prgm{
+        Lang lang = new Lang();
+        static void main(string[] args)
+        {
+            lang.Init();
+            String[] LangType = {"Chinese", "English"};
+            lang.SetLangType(LangType);
+            langInit();
+            CRLT(0) // 切换Chinsese
+            Console.WriteLine(lang.RLS("wtl.start.title"));
+            Console.WriteLine(lang.RLS("wtl.start.tip"));
+        }
+        void langInit()
+        {
+            lang.CCLT(0); // Chinese
+            lang.CLS("欢迎来到WT", "wtl.start.title");
+            lang.CLS("你可以在这里做任何你想做的事". "wtl.start.tip");
+            lang.CCLT(1) // English
+            lang.CLS("Welcome to WindyTown!", "wtl.start.title");
+            lang.CLS（"U can do everything u want to do", "wtl.start.tip")
+        }
     }
 }
+    
+    
 
 ```
 如果会报错表示xxx为null之类的话，请删掉lang文件夹然后再次打开软件
