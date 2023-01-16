@@ -1,0 +1,761 @@
+[16:02:34] [INFO] [Thread.Main]: abaa语言已切换为:abaa
+[16:02:34] [INFO] [Thread.Main]: abaaawaabaa位置：50, 50，abaa大小：826, 458
+[16:02:34] [INFO] [Thread.Main]: abaaqwq
+[16:02:34] [INFO] [Thread.Main]: abaaawaabaa位置：54, 52，abaa大小：826, 458
+[16:02:34] [INFO] [Thread.Main]: abaaawaabaa位置：55, 54，abaa大小：826, 458
+[16:02:34] [INFO] [Thread.Main]: abaaawaabaa位置：57, 55，abaa大小：826, 458
+[16:02:34] [INFO] [Thread.Main]: abaaawaabaa位置：58, 57，abaa大小：826, 458
+[16:02:34] [INFO] [Thread.Main]: abaaawaabaa位置：60, 59，abaa大小：826, 458
+[16:02:34] [INFO] [Thread.Main]: abaaawaabaa位置：62, 61，abaa大小：826, 458
+[16:02:34] [INFO] [Thread.Main]: abaaawaabaa位置：63, 62，abaa大小：826, 458
+[16:02:42] [INFO] [Thread.Main]: abaaawaabaa位置：64, 64，abaa大小：826, 458
+[16:02:42] [INFO] [Thread.Main]: abaaawaabaa位置：65, 66，abaa大小：826, 458
+[16:02:42] [INFO] [Thread.Main]: abaaawaabaa位置：69, 68，abaa大小：826, 458
+[16:02:42] [INFO] [Thread.Main]: abaaawaabaa位置：71, 69，abaa大小：826, 458
+[16:02:42] [INFO] [Thread.Main]: abaaawaabaa位置：71, 70，abaa大小：826, 458
+[16:02:42] [INFO] [Thread.Main]: 语言已切换为:Chinese
+[16:02:42] [INFO] [Thread.Main]: 窗体位置移动，位置：75, 70，大小：826, 458
+[16:02:42] [INFO] [Thread.Main]: 窗体位置移动，位置：76, 70，大小：826, 458
+[16:02:42] [INFO] [Thread.Main]: 窗体位置移动，位置：79, 70，大小：826, 458
+[16:02:42] [INFO] [Thread.Main]: 窗体位置移动，位置：80, 70，大小：826, 458
+[16:02:43] [INFO] [Thread.Main]: 窗体位置移动，位置：83, 71，大小：826, 458
+[16:02:43] [INFO] [Thread.Main]: 窗体位置移动，位置：84, 71，大小：826, 458
+[16:02:43] [INFO] [Thread.Main]: 窗体位置移动，位置：85, 71，大小：826, 458
+[16:02:43] [INFO] [Thread.Main]: 窗体位置移动，位置：86, 71，大小：826, 458
+[16:02:43] [INFO] [Thread.Main]: 窗体位置移动，位置：89, 73，大小：826, 458
+[16:02:43] [INFO] [Thread.Main]: 窗体位置移动，位置：91, 73，大小：826, 458
+[16:02:43] [INFO] [Thread.Main]: 窗体位置移动，位置：93, 73，大小：826, 458
+[16:02:43] [INFO] [Thread.Main]: 窗体位置移动，位置：94, 74，大小：826, 458
+[16:02:43] [INFO] [Thread.Main]: 窗体位置移动，位置：95, 74，大小：826, 458
+[16:02:43] [INFO] [Thread.Main]: 窗体位置移动，位置：96, 74，大小：826, 458
+[16:02:46] [INFO] [Thread.Main]: 窗体位置移动，位置：97, 74，大小：826, 458
+[16:02:46] [INFO] [Thread.Main]: 窗体位置移动，位置：98, 74，大小：826, 458
+[16:02:46] [INFO] [Thread.Main]: 窗体位置移动，位置：100, 76，大小：826, 458
+[16:02:46] [INFO] [Thread.Main]: Lang has been changed to:English
+[16:02:46] [INFO] [Thread.Main]: Window's location has been moved，Location:104, 75，Size:826, 458
+[16:02:46] [INFO] [Thread.Main]: Window's location has been moved，Location:105, 74，Size:826, 458
+[16:02:46] [INFO] [Thread.Main]: Window's location has been moved，Location:108, 74，Size:826, 458
+[16:02:46] [INFO] [Thread.Main]: Window's location has been moved，Location:108, 73，Size:826, 458
+[16:02:46] [INFO] [Thread.Main]: Window's location has been moved，Location:108, 74，Size:826, 458
+[16:02:46] [INFO] [Thread.Main]: Window's location has been moved，Location:108, 75，Size:826, 458
+[16:02:48] [INFO] [Thread.Main]: Window's location has been moved，Location:109, 77，Size:826, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:828, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:843, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:849, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:852, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:863, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:871, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:874, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:877, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:881, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:889, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:897, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:901, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:904, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:912, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:917, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:918, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:919, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:923, 458
+[16:02:48] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:924, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:928, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:934, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:939, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:944, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:945, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:946, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:949, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:950, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:951, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:958, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:963, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:962, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:956, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:949, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:944, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:933, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:926, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:925, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:924, 458
+[16:02:49] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:922, 458
+[16:02:50] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:920, 458
+[16:02:50] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:919, 458
+[16:02:50] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:918, 458
+[16:02:50] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:912, 458
+[16:02:50] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:907, 458
+[16:02:50] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:902, 458
+[16:02:50] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:899, 458
+[16:02:50] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:895, 458
+[16:02:50] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:890, 458
+[16:02:50] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:889, 458
+[16:02:51] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:887, 458
+[16:02:51] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:883, 458
+[16:02:51] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:883, 460
+[16:02:51] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:883, 467
+[16:02:51] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:883, 479
+[16:02:51] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:883, 481
+[16:02:51] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:883, 482
+[16:02:51] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:883, 487
+[16:02:51] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:883, 490
+[16:02:51] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:883, 493
+[16:02:53] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:883, 496
+[16:02:53] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:883, 502
+[16:02:53] [INFO] [Thread.Main]: Window's size has been changed，Location:109, 77，Size:883, 503
+[16:02:53] [INFO] [Thread.Main]: Window's location has been moved，Location:108, 77，Size:884, 503
+[16:02:53] [INFO] [Thread.Main]: Window's size has been changed，Location:108, 77，Size:884, 503
+[16:02:53] [INFO] [Thread.Main]: Window's location has been moved，Location:106, 76，Size:886, 504
+[16:02:53] [INFO] [Thread.Main]: Window's size has been changed，Location:106, 76，Size:886, 504
+[16:02:53] [INFO] [Thread.Main]: Window's location has been moved，Location:103, 73，Size:889, 507
+[16:02:53] [INFO] [Thread.Main]: Window's size has been changed，Location:103, 73，Size:889, 507
+[16:02:53] [INFO] [Thread.Main]: Window's location has been moved，Location:102, 71，Size:890, 509
+[16:02:53] [INFO] [Thread.Main]: Window's size has been changed，Location:102, 71，Size:890, 509
+[16:02:53] [INFO] [Thread.Main]: Window's location has been moved，Location:102, 69，Size:890, 511
+[16:02:53] [INFO] [Thread.Main]: Window's size has been changed，Location:102, 69，Size:890, 511
+[16:02:53] [INFO] [Thread.Main]: Window's location has been moved，Location:98, 66，Size:894, 514
+[16:02:53] [INFO] [Thread.Main]: Window's size has been changed，Location:98, 66，Size:894, 514
+[16:02:53] [INFO] [Thread.Main]: Window's location has been moved，Location:96, 65，Size:896, 515
+[16:02:53] [INFO] [Thread.Main]: Window's size has been changed，Location:96, 65，Size:896, 515
+[16:02:53] [INFO] [Thread.Main]: Window's location has been moved，Location:95, 63，Size:897, 517
+[16:02:53] [INFO] [Thread.Main]: Window's size has been changed，Location:95, 63，Size:897, 517
+[16:02:53] [INFO] [Thread.Main]: Window's location has been moved，Location:95, 62，Size:897, 518
+[16:02:54] [INFO] [Thread.Main]: Window's size has been changed，Location:95, 62，Size:897, 518
+[16:02:54] [INFO] [Thread.Main]: Window's location has been moved，Location:95, 61，Size:897, 519
+[16:02:54] [INFO] [Thread.Main]: Window's size has been changed，Location:95, 61，Size:897, 519
+[16:02:54] [INFO] [Thread.Main]: Window's location has been moved，Location:94, 60，Size:898, 520
+[16:02:54] [INFO] [Thread.Main]: Window's size has been changed，Location:94, 60，Size:898, 520
+[16:02:54] [INFO] [Thread.Main]: Window's location has been moved，Location:93, 60，Size:899, 520
+[16:02:54] [INFO] [Thread.Main]: Window's size has been changed，Location:93, 60，Size:899, 520
+[16:02:54] [INFO] [Thread.Main]: Window's location has been moved，Location:92, 58，Size:900, 522
+[16:02:54] [INFO] [Thread.Main]: Window's size has been changed，Location:92, 58，Size:900, 522
+[16:02:54] [INFO] [Thread.Main]: Window's location has been moved，Location:91, 57，Size:901, 523
+[16:02:54] [INFO] [Thread.Main]: Window's size has been changed，Location:91, 57，Size:901, 523
+[16:02:54] [INFO] [Thread.Main]: Window's location has been moved，Location:89, 57，Size:903, 523
+[16:02:54] [INFO] [Thread.Main]: Window's size has been changed，Location:89, 57，Size:903, 523
+[16:02:54] [INFO] [Thread.Main]: Window's location has been moved，Location:88, 56，Size:904, 524
+[16:02:54] [INFO] [Thread.Main]: Window's size has been changed，Location:88, 56，Size:904, 524
+[16:02:54] [INFO] [Thread.Main]: Window's location has been moved，Location:87, 55，Size:905, 525
+[16:02:54] [INFO] [Thread.Main]: Window's size has been changed，Location:87, 55，Size:905, 525
+[16:02:54] [INFO] [Thread.Main]: Window's location has been moved，Location:88, 55，Size:904, 525
+[16:02:54] [INFO] [Thread.Main]: Window's size has been changed，Location:88, 55，Size:904, 525
+[16:02:54] [INFO] [Thread.Main]: Window's location has been moved，Location:93, 60，Size:899, 520
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:93, 60，Size:899, 520
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:96, 61，Size:896, 519
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:96, 61，Size:896, 519
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:98, 63，Size:894, 517
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:98, 63，Size:894, 517
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:99, 65，Size:893, 515
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:99, 65，Size:893, 515
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:103, 68，Size:889, 512
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:103, 68，Size:889, 512
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:105, 70，Size:887, 510
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:105, 70，Size:887, 510
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:110, 76，Size:882, 504
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:110, 76，Size:882, 504
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:114, 80，Size:878, 500
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:114, 80，Size:878, 500
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:115, 83，Size:877, 497
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:115, 83，Size:877, 497
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:118, 86，Size:874, 494
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:118, 86，Size:874, 494
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:122, 89，Size:870, 491
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:122, 89，Size:870, 491
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:127, 92，Size:865, 488
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:127, 92，Size:865, 488
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:133, 95，Size:859, 485
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:133, 95，Size:859, 485
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:137, 97，Size:855, 483
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:137, 97，Size:855, 483
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:137, 98，Size:855, 482
+[16:02:55] [INFO] [Thread.Main]: Window's size has been changed，Location:137, 98，Size:855, 482
+[16:02:55] [INFO] [Thread.Main]: Window's location has been moved，Location:138, 100，Size:854, 480
+[16:03:03] [INFO] [Thread.Main]: Window's size has been changed，Location:138, 100，Size:854, 480
+[16:03:03] [INFO] [Thread.Main]: abaa语言已切换为:abaa
+[16:03:03] [INFO] [Thread.Main]: abaa日志预览窗口已打开
+[16:03:03] [INFO] [Thread.Main]: abaa日志查看窗口已打开
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：143, 102，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：150, 102，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：179, 109，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：204, 114，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：222, 118，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：237, 121，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：254, 127，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：262, 130，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：267, 132，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：273, 134，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：275, 135，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：276, 136，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：276, 137，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：276, 138，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：276, 141，abaa大小：854, 480
+[16:03:03] [INFO] [Thread.Main]: abaaawaabaa位置：271, 146，abaa大小：854, 480
+[16:03:04] [INFO] [Thread.Main]: abaaawaabaa位置：263, 162，abaa大小：854, 480
+[16:03:04] [INFO] [Thread.Main]: abaaawaabaa位置：254, 182，abaa大小：854, 480
+[16:03:04] [INFO] [Thread.Main]: abaaawaabaa位置：245, 203，abaa大小：854, 480
+[16:03:04] [INFO] [Thread.Main]: abaaawaabaa位置：239, 212，abaa大小：854, 480
+[16:03:04] [INFO] [Thread.Main]: abaaawaabaa位置：238, 213，abaa大小：854, 480
+[16:03:04] [INFO] [Thread.Main]: abaaawaabaa位置：238, 214，abaa大小：854, 480
+[16:03:04] [INFO] [Thread.Main]: abaaawaabaa位置：233, 212，abaa大小：854, 480
+[16:03:04] [INFO] [Thread.Main]: abaaawaabaa位置：221, 208，abaa大小：854, 480
+[16:03:04] [INFO] [Thread.Main]: abaaawaabaa位置：194, 203，abaa大小：854, 480
+[16:03:04] [INFO] [Thread.Main]: abaaawaabaa位置：148, 193，abaa大小：854, 480
+[16:17:19] [INFO] [Thread.Main]: awa
+[16:17:19] [WARN] [Thread.Main]: 糟糕！程序出现了一些故障。
+[16:17:19] [ERROR] [Thread.Main]: 糟糕，程序有错误了！
+[16:17:19] [INFO] [Thread.Main]: awa
+[16:17:19] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[16:17:19] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[16:17:19] [INFO] [Thread.Main]: awa
+[16:17:19] [WARN] [Thread.Main]: 糟糕！程序出现了一些故障。
+[16:17:19] [ERROR] [Thread.Main]: 糟糕，程序有错误了！
+[16:17:19] [INFO] [Thread.Main]: awa
+[16:25:50] [INFO] [Thread.Main]: Chinese
+[16:25:50] [INFO] [Thread.Main]: 窗体位置移动，位置：150, 150，大小：826, 458
+[16:25:50] [INFO] [Thread.Main]: 已开启窗口
+[16:25:50] [INFO] [Thread.Main]: 窗体位置移动，位置：154, 148，大小：826, 458
+[16:25:50] [INFO] [Thread.Main]: 窗体位置移动，位置：157, 147，大小：826, 458
+[16:25:50] [INFO] [Thread.Main]: 窗体位置移动，位置：163, 144，大小：826, 458
+[16:25:50] [INFO] [Thread.Main]: 窗体位置移动，位置：164, 144，大小：826, 458
+[16:25:50] [INFO] [Thread.Main]: Lang has been changed to:English
+[16:25:50] [INFO] [Thread.Main]: Window's location has been moved，Location:159, 146，Size:826, 458
+[16:25:50] [INFO] [Thread.Main]: Window's location has been moved，Location:152, 149，Size:826, 458
+[16:25:50] [INFO] [Thread.Main]: Window's location has been moved，Location:146, 152，Size:826, 458
+[16:25:50] [INFO] [Thread.Main]: Window's location has been moved，Location:143, 154，Size:826, 458
+[16:25:50] [INFO] [Thread.Main]: Window's location has been moved，Location:142, 155，Size:826, 458
+[16:25:50] [INFO] [Thread.Main]: Window's location has been moved，Location:141, 155，Size:826, 458
+[16:25:50] [INFO] [Thread.Main]: Window's location has been moved，Location:141, 159，Size:826, 458
+[16:25:50] [INFO] [Thread.Main]: Window's location has been moved，Location:139, 169，Size:826, 458
+[16:25:50] [INFO] [Thread.Main]: Window's location has been moved，Location:140, 184，Size:826, 458
+[16:25:50] [INFO] [Thread.Main]: Window's location has been moved，Location:142, 188，Size:826, 458
+[16:25:50] [INFO] [Thread.Main]: Window's location has been moved，Location:147, 191，Size:826, 458
+[16:25:50] [INFO] [Thread.Main]: Window's location has been moved，Location:148, 191，Size:826, 458
+[16:25:52] [INFO] [Thread.Main]: Window's location has been moved，Location:149, 191，Size:826, 458
+[16:25:52] [INFO] [Thread.Main]: Window's location has been moved，Location:151, 191，Size:826, 458
+[16:25:52] [INFO] [Thread.Main]: Window's location has been moved，Location:152, 190，Size:826, 458
+[16:25:52] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 190，Size:826, 458
+[16:25:52] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 189，Size:826, 458
+[16:25:52] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 187，Size:826, 458
+[16:25:52] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 183，Size:826, 458
+[16:25:52] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 180，Size:826, 458
+[16:25:52] [INFO] [Thread.Main]: Window's location has been moved，Location:152, 176，Size:826, 458
+[16:25:52] [INFO] [Thread.Main]: abaa
+[16:25:53] [INFO] [Thread.Main]: 157, 176，826, 458
+[16:25:53] [INFO] [Thread.Main]: 158, 175，826, 458
+[16:25:53] [INFO] [Thread.Main]: 165, 173，826, 458
+[16:25:53] [INFO] [Thread.Main]: 172, 170，826, 458
+[16:25:53] [INFO] [Thread.Main]: 182, 165，826, 458
+[16:25:53] [INFO] [Thread.Main]: 187, 163，826, 458
+[16:25:53] [INFO] [Thread.Main]: 186, 162，826, 458
+[16:25:53] [INFO] [Thread.Main]: 183, 161，826, 458
+[16:25:53] [INFO] [Thread.Main]: 178, 159，826, 458
+[16:25:53] [INFO] [Thread.Main]: 176, 157，826, 458
+[16:25:55] [INFO] [Thread.Main]: 165, 153，826, 458
+[16:25:55] [INFO] [Thread.Main]: 155, 151，826, 458
+[16:25:55] [INFO] [Thread.Main]: 153, 150，826, 458
+[16:25:55] [INFO] [Thread.Main]: 152, 150，826, 458
+[16:25:55] [INFO] [Thread.Main]: 语言已切换为:Chinese
+[16:25:55] [INFO] [Thread.Main]: 窗体位置移动，位置：156, 152，大小：826, 458
+[16:25:55] [INFO] [Thread.Main]: 窗体位置移动，位置：161, 153，大小：826, 458
+[16:25:55] [INFO] [Thread.Main]: 窗体位置移动，位置：168, 155，大小：826, 458
+[16:25:55] [INFO] [Thread.Main]: 窗体位置移动，位置：177, 155，大小：826, 458
+[16:25:55] [INFO] [Thread.Main]: 窗体位置移动，位置：190, 158，大小：826, 458
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：203, 161，大小：826, 458
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：210, 162，大小：826, 458
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：212, 162，大小：826, 458
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：212, 164，大小：826, 458
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：211, 164，大小：826, 458
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：210, 164，大小：826, 458
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：208, 165，大小：826, 458
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：207, 166，大小：826, 458
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：206, 166，大小：827, 458
+[16:25:58] [INFO] [Thread.Main]: 窗体大小改变，位置：206, 166，大小：827, 458
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：196, 160，大小：837, 464
+[16:25:58] [INFO] [Thread.Main]: 窗体大小改变，位置：196, 160，大小：837, 464
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：179, 150，大小：854, 474
+[16:25:58] [INFO] [Thread.Main]: 窗体大小改变，位置：179, 150，大小：854, 474
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：175, 148，大小：858, 476
+[16:25:58] [INFO] [Thread.Main]: 窗体大小改变，位置：175, 148，大小：858, 476
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：172, 145，大小：861, 479
+[16:25:58] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 145，大小：861, 479
+[16:25:58] [INFO] [Thread.Main]: 窗体位置移动，位置：172, 139，大小：861, 485
+[16:25:58] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 139，大小：861, 485
+[16:26:03] [INFO] [Thread.Main]: 窗体位置移动，位置：172, 136，大小：861, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：861, 488
+[16:26:03] [INFO] [Thread.Main]: 日志预览窗口已打开
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：859, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：833, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：822, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：821, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：803, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：785, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：782, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：766, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：759, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：754, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：753, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：745, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：746, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：768, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：797, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：814, 488
+[16:26:03] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：831, 488
+[16:26:04] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：840, 488
+[16:26:04] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：846, 488
+[16:26:04] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：847, 488
+[16:26:04] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：852, 488
+[16:26:04] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：864, 488
+[16:26:04] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：885, 488
+[16:26:04] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：898, 488
+[16:26:04] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：910, 488
+[16:26:04] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：919, 488
+[16:26:04] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：932, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：950, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：965, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：973, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：978, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：977, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：953, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：898, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：874, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：853, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：828, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：815, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：799, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：797, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：798, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：803, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：822, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：827, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：826, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：819, 488
+[16:26:05] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：818, 488
+[16:26:07] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：815, 488
+[16:26:07] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：814, 488
+[16:26:07] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：813, 488
+[16:26:07] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：814, 488
+[16:26:07] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：815, 488
+[16:26:07] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：817, 488
+[16:26:07] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：818, 488
+[16:26:07] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：820, 488
+[16:26:07] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：821, 488
+[16:26:07] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：822, 488
+[16:26:16] [INFO] [Thread.Main]: 窗体大小改变，位置：172, 136，大小：823, 488
+[16:26:16] [INFO] [Thread.Main]: 日志预览窗口已打开
+[16:26:16] [INFO] [Thread.Main]: Lang has been changed to:English
+[16:26:16] [INFO] [Thread.Main]: Window's location has been moved，Location:176, 136，Size:823, 488
+[16:26:16] [INFO] [Thread.Main]: Window's location has been moved，Location:180, 136，Size:823, 488
+[16:26:16] [INFO] [Thread.Main]: Window's location has been moved，Location:186, 136，Size:823, 488
+[16:26:16] [INFO] [Thread.Main]: Window's location has been moved，Location:192, 135，Size:823, 488
+[16:26:16] [INFO] [Thread.Main]: Window's location has been moved，Location:193, 135，Size:823, 488
+[16:26:16] [INFO] [Thread.Main]: Window's location has been moved，Location:194, 134，Size:823, 488
+[16:26:16] [INFO] [Thread.Main]: Window's location has been moved，Location:195, 133，Size:823, 488
+[16:26:18] [INFO] [Thread.Main]: Window's location has been moved，Location:196, 132，Size:823, 488
+[16:26:18] [INFO] [Thread.Main]: Window's location has been moved，Location:197, 128，Size:823, 488
+[16:26:18] [INFO] [Thread.Main]: Window's location has been moved，Location:199, 125，Size:823, 488
+[16:26:18] [INFO] [Thread.Main]: Window's location has been moved，Location:200, 123，Size:823, 488
+[16:26:18] [INFO] [Thread.Main]: Window's location has been moved，Location:200, 121，Size:823, 488
+[16:26:18] [INFO] [Thread.Main]: Window's location has been moved，Location:200, 120，Size:823, 488
+[16:26:18] [INFO] [Thread.Main]: 语言已切换为:Chinese
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：195, 120，大小：823, 488
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：192, 120，大小：823, 488
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：191, 122，大小：823, 488
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：193, 122，大小：823, 488
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：194, 124，大小：823, 488
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：195, 125，大小：823, 488
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：195, 129，大小：823, 488
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：194, 131，大小：823, 488
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：193, 131，大小：823, 488
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：190, 134，大小：823, 488
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：187, 137，大小：823, 488
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：187, 140，大小：823, 488
+[16:26:18] [INFO] [Thread.Main]: 窗体位置移动，位置：185, 143，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：185, 152，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：185, 158，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：186, 161，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：188, 161，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：191, 162，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：198, 165，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：204, 165，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：206, 165，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：207, 164，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：213, 162，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：220, 158，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：228, 153，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：233, 148，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：237, 144，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：239, 141，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：239, 140，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：239, 136，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：239, 132，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：236, 128，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：231, 124，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：222, 116，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：217, 113，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：213, 111，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：207, 109，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：203, 108，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：200, 107，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：193, 107，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：188, 107，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：183, 107，大小：823, 488
+[16:26:19] [INFO] [Thread.Main]: 窗体位置移动，位置：175, 107，大小：823, 488
+[16:26:20] [INFO] [Thread.Main]: 窗体位置移动，位置：170, 107，大小：823, 488
+[16:26:20] [INFO] [Thread.Main]: 窗体位置移动，位置：163, 107，大小：823, 488
+[16:26:20] [INFO] [Thread.Main]: 窗体位置移动，位置：156, 108，大小：823, 488
+[16:26:20] [INFO] [Thread.Main]: 窗体位置移动，位置：147, 111，大小：823, 488
+[16:26:20] [INFO] [Thread.Main]: 窗体位置移动，位置：141, 113，大小：823, 488
+[16:26:20] [INFO] [Thread.Main]: 窗体位置移动，位置：138, 115，大小：823, 488
+[16:26:20] [INFO] [Thread.Main]: 窗体位置移动，位置：133, 117，大小：823, 488
+[16:26:20] [INFO] [Thread.Main]: 窗体位置移动，位置：128, 121，大小：823, 488
+[16:26:20] [INFO] [Thread.Main]: 窗体位置移动，位置：121, 126，大小：823, 488
+[16:26:20] [INFO] [Thread.Main]: 窗体位置移动，位置：115, 131，大小：823, 488
+[16:28:46] [INFO] [Thread.Main]: 语言已切换为:Chinese
+[16:43:17] [INFO] [Thread.Main]: Chinese
+[16:43:17] [INFO] [Thread.Main]: 窗体位置移动，位置：25, 25，大小：826, 458
+[16:43:17] [INFO] [Thread.Main]: 已开启窗口
+[16:43:17] [INFO] [Thread.Main]: 窗体位置移动，位置：25, 30，大小：826, 458
+[16:43:17] [INFO] [Thread.Main]: 窗体位置移动，位置：26, 32，大小：826, 458
+[16:43:17] [INFO] [Thread.Main]: 窗体位置移动，位置：27, 35，大小：826, 458
+[16:43:17] [INFO] [Thread.Main]: 窗体位置移动，位置：28, 37，大小：826, 458
+[16:43:17] [INFO] [Thread.Main]: 窗体位置移动，位置：29, 38，大小：826, 458
+[16:43:17] [INFO] [Thread.Main]: 窗体位置移动，位置：30, 41，大小：826, 458
+[16:43:17] [INFO] [Thread.Main]: 窗体位置移动，位置：31, 42，大小：826, 458
+[16:43:18] [INFO] [Thread.Main]: 窗体位置移动，位置：32, 43，大小：826, 458
+[16:43:18] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 45，大小：826, 458
+[16:43:18] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 46，大小：826, 458
+[16:43:18] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 47，大小：826, 458
+[16:43:18] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 48，大小：826, 458
+[16:43:18] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 49，大小：826, 458
+[16:43:18] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 50，大小：826, 458
+[16:43:18] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 51，大小：826, 458
+[16:43:18] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 52，大小：826, 458
+[16:43:18] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 53，大小：826, 458
+[16:43:19] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 55，大小：826, 458
+[16:43:19] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 56，大小：826, 458
+[16:43:19] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 61，大小：826, 458
+[16:43:19] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 63，大小：826, 458
+[16:43:19] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 69，大小：826, 458
+[16:43:19] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 73，大小：826, 458
+[16:43:19] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 78，大小：826, 458
+[16:43:19] [INFO] [Thread.Main]: 窗体位置移动，位置：34, 80，大小：826, 458
+[16:43:19] [INFO] [Thread.Main]: 窗体位置移动，位置：33, 82，大小：826, 458
+[16:43:19] [INFO] [Thread.Main]: Lang has been changed to:English
+[16:43:24] [INFO] [Thread.Main]: Window's location has been moved，Location:38, 82，Size:826, 458
+[16:43:24] [INFO] [Thread.Main]: Window's location has been moved，Location:41, 84，Size:826, 458
+[16:43:24] [INFO] [Thread.Main]: Window's location has been moved，Location:48, 87，Size:826, 458
+[16:43:24] [INFO] [Thread.Main]: Window's location has been moved，Location:54, 91，Size:826, 458
+[16:43:24] [INFO] [Thread.Main]: Window's location has been moved，Location:61, 94，Size:826, 458
+[16:43:24] [INFO] [Thread.Main]: Window's location has been moved，Location:64, 95，Size:826, 458
+[16:43:24] [INFO] [Thread.Main]: Window's location has been moved，Location:69, 97，Size:826, 458
+[16:43:24] [INFO] [Thread.Main]: Window's location has been moved，Location:71, 98，Size:826, 458
+[16:43:24] [INFO] [Thread.Main]: Window's location has been moved，Location:75, 100，Size:826, 458
+[16:43:24] [INFO] [Thread.Main]: Window's location has been moved，Location:76, 100，Size:826, 458
+[16:43:25] [INFO] [Thread.Main]: Window's location has been moved，Location:77, 100，Size:826, 458
+[16:43:25] [INFO] [Thread.Main]: Window's location has been moved，Location:77, 101，Size:826, 458
+[16:43:25] [INFO] [Thread.Main]: Window's location has been moved，Location:78, 102，Size:826, 458
+[16:43:25] [INFO] [Thread.Main]: Window's location has been moved，Location:78, 103，Size:826, 458
+[16:43:25] [INFO] [Thread.Main]: Window's location has been moved，Location:78, 104，Size:826, 458
+[16:43:25] [INFO] [Thread.Main]: Window's location has been moved，Location:78, 105，Size:826, 458
+[16:43:25] [INFO] [Thread.Main]: Window's location has been moved，Location:78, 106，Size:826, 458
+[16:43:25] [INFO] [Thread.Main]: Window's location has been moved，Location:79, 109，Size:826, 458
+[16:43:25] [INFO] [Thread.Main]: Window's location has been moved，Location:79, 112，Size:826, 458
+[16:43:25] [INFO] [Thread.Main]: Window's location has been moved，Location:79, 115，Size:826, 458
+[16:43:26] [INFO] [Thread.Main]: Window's location has been moved，Location:79, 119，Size:826, 458
+[16:43:26] [INFO] [Thread.Main]: Window's location has been moved，Location:79, 120，Size:826, 458
+[16:43:26] [INFO] [Thread.Main]: Window's location has been moved，Location:79, 122，Size:826, 458
+[16:43:26] [INFO] [Thread.Main]: Window's location has been moved，Location:79, 124，Size:826, 458
+[16:43:26] [INFO] [Thread.Main]: Window's location has been moved，Location:79, 126，Size:826, 458
+[16:43:26] [INFO] [Thread.Main]: Window's location has been moved，Location:80, 128，Size:826, 458
+[16:43:26] [INFO] [Thread.Main]: Window's location has been moved，Location:80, 129，Size:826, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:827, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:831, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:839, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:858, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:884, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:900, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:901, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:902, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:904, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:909, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:914, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:920, 458
+[16:43:26] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:925, 458
+[16:43:27] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:932, 458
+[16:43:27] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:940, 458
+[16:43:27] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:939, 458
+[16:43:27] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:937, 458
+[16:43:27] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:936, 458
+[16:43:27] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:934, 458
+[16:43:27] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:933, 458
+[16:43:27] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:928, 458
+[16:43:27] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:927, 458
+[16:43:27] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:926, 458
+[16:43:28] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:925, 458
+[16:43:28] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:922, 458
+[16:43:28] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:918, 458
+[16:43:28] [INFO] [Thread.Main]: Window's size has been changed，Location:80, 129，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:75, 130，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 130，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:65, 130，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:52, 130，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:40, 130，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:34, 131，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:29, 133，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:28, 133，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:27, 133，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:26, 133，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:26, 134，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:26, 135，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:26, 140，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:26, 144，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:26, 146，Size:916, 458
+[16:43:28] [INFO] [Thread.Main]: Window's location has been moved，Location:26, 148，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:27, 149，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:28, 152，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:29, 154，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:30, 154，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:30, 155，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window:Log Viewer has been opened
+[16:43:37] [INFO] [Thread.Main]: Window:Log Viewer has been opened
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:33, 148，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:35, 145，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:37, 140，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:39, 136，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:39, 134，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:40, 131，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:41, 128，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:42, 125，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:43, 124，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:44, 123，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:46, 122，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:47, 122，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:47, 121，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:49, 121，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:50, 120，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:52, 120，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:54, 120，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:55, 120，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:56, 120，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:57, 120，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:58, 120，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:59, 120，Size:916, 458
+[16:43:37] [INFO] [Thread.Main]: Window's location has been moved，Location:61, 120，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:62, 122，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:64, 125，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:66, 127，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:68, 132，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 137，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 138，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 139，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 140，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 141，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 143，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 144，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 146，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 147，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 150，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 153，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 155，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 156，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 157，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 158，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 159，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 160，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 161，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 163，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 164，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:67, 167，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:65, 169，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:63, 171，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:61, 171，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:60, 171，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:58, 171，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:56, 171，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:54, 171，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:47, 171，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:42, 170，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:37, 169，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:33, 168，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:31, 166，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:29, 165，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:28, 164，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:27, 162，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:26, 160，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:26, 158，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:26, 157，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:26, 155，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:29, 151，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:32, 148，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:35, 145，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:36, 144，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:39, 142，Size:916, 458
+[16:43:38] [INFO] [Thread.Main]: Window's location has been moved，Location:41, 140，Size:916, 458
+[16:43:45] [INFO] [Thread.Main]: Window's location has been moved，Location:44, 139，Size:916, 458
+[16:43:45] [INFO] [Thread.Main]: Window's location has been moved，Location:46, 138，Size:916, 458
+[16:43:45] [INFO] [Thread.Main]: Window's location has been moved，Location:47, 138，Size:916, 458
+[16:43:45] [INFO] [Thread.Main]: Window's location has been moved，Location:49, 138，Size:916, 458
+[16:43:45] [INFO] [Thread.Main]: Window's location has been moved，Location:50, 137，Size:916, 458
+[16:43:45] [INFO] [Thread.Main]: Window's location has been moved，Location:51, 137，Size:916, 458
+[16:43:45] [INFO] [Thread.Main]: Window:Log Viewer has been opened
+[16:43:45] [INFO] [Thread.Main]: Window:Log has been opened
+[16:43:45] [INFO] [Thread.Main]: Window's location has been moved，Location:55, 137，Size:916, 458
+[16:43:45] [INFO] [Thread.Main]: Window's location has been moved，Location:56, 136，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:58, 135，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:59, 134，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:60, 134，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:61, 134，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:62, 134，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:63, 133，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:64, 132，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:65, 132，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:66, 131，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:67, 131，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:68, 131，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:69, 130，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:70, 129，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:71, 129，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:74, 128，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:82, 126，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:87, 126，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:99, 122，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:108, 118，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:133, 113，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:168, 109，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:183, 108，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:203, 108，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:205, 108，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:206, 109，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:206, 111，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:205, 111，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:204, 112，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:203, 116，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:203, 118，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:201, 126，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:198, 132，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:195, 139，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:193, 141，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:189, 147，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:187, 149，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:182, 156，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:175, 164，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:170, 168，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:163, 175，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:155, 180，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:149, 183，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:145, 184，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:145, 185，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:144, 185，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:142, 186，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:140, 186，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:137, 187，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:132, 189，Size:916, 458
+[16:43:46] [INFO] [Thread.Main]: Window's location has been moved，Location:128, 189，Size:916, 458
+[16:43:47] [INFO] [Thread.Main]: Window's location has been moved，Location:125, 189，Size:916, 458
+[16:43:47] [INFO] [Thread.Main]: Window's location has been moved，Location:122, 189，Size:916, 458
+[16:43:47] [INFO] [Thread.Main]: Window's location has been moved，Location:116, 187，Size:916, 458
+[16:43:47] [INFO] [Thread.Main]: Window's location has been moved，Location:113, 184，Size:916, 458
+[16:43:47] [INFO] [Thread.Main]: Window's location has been moved，Location:107, 180，Size:916, 458
+[16:43:47] [INFO] [Thread.Main]: Window's location has been moved，Location:103, 177，Size:916, 458
+[16:43:47] [INFO] [Thread.Main]: Window's location has been moved，Location:100, 175，Size:916, 458
+[16:43:47] [INFO] [Thread.Main]: Window's location has been moved，Location:98, 170，Size:916, 458
+[16:43:47] [INFO] [Thread.Main]: Window's location has been moved，Location:96, 167，Size:916, 458
+[16:43:47] [INFO] [Thread.Main]: Window's location has been moved，Location:96, 165，Size:916, 458
+[16:43:49] [INFO] [Thread.Main]: Window's location has been moved，Location:96, 164，Size:916, 458
+[16:43:49] [INFO] [Thread.Main]: Window's location has been moved，Location:96, 162，Size:916, 458
+[16:43:49] [INFO] [Thread.Main]: Window's location has been moved，Location:96, 161，Size:916, 458
+[16:43:49] [INFO] [Thread.Main]: Window's location has been moved，Location:96, 160，Size:916, 458
+[16:43:49] [INFO] [Thread.Main]: Window's location has been moved，Location:96, 159，Size:916, 458
+[16:43:49] [INFO] [Thread.Main]: 语言已切换为:Chinese
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：91, 160，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：89, 160，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：88, 160，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：87, 160，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：86, 160，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：84, 160，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：84, 159，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：82, 157，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：80, 154，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：77, 150，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：77, 149，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：77, 148，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：78, 148，大小：916, 458
+[16:43:49] [INFO] [Thread.Main]: 窗体位置移动，位置：78, 147，大小：916, 458
+[16:44:56] [INFO] [Thread.Main]: Lang has been changed to:English
+[16:44:56] [INFO] [Thread.Main]: Window's location has been moved，Location:150, 150，Size:826, 458
+[16:44:56] [INFO] [Thread.Main]: Opened Window
+[16:44:56] [INFO] [Thread.Main]: Window's location has been moved，Location:152, 155，Size:826, 458
+[16:44:56] [INFO] [Thread.Main]: Window's location has been moved，Location:153, 156，Size:826, 458
+[16:44:56] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 158，Size:826, 458
+[16:44:56] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 159，Size:826, 458
+[16:44:56] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 160，Size:826, 458
+[16:44:56] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 161，Size:826, 458
+[16:44:56] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 162，Size:826, 458
+[16:44:59] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 163，Size:826, 458
+[16:44:59] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 164，Size:826, 458
+[16:44:59] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 165，Size:826, 458
+[16:44:59] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 166，Size:826, 458
+[16:44:59] [INFO] [Thread.Main]: Window's location has been moved，Location:154, 167，Size:826, 458
+[16:44:59] [INFO] [Thread.Main]: abaa语言已切换为:abaa
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：158, 167，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：160, 167，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：162, 167，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：163, 167，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：164, 167，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：165, 167，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：166, 167，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：167, 167，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：168, 167，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：169, 167，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：169, 168，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：170, 168，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：170, 169，abaa大小：826, 458
+[16:44:59] [INFO] [Thread.Main]: abaaawaabaa位置：170, 170，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：170, 171，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：170, 172，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：170, 173，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：169, 173，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：168, 173，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：167, 174，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：166, 174，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：165, 174，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：163, 174，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：161, 174，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：159, 174，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：156, 174，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：155, 173，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：153, 172，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：151, 171，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：149, 170，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：147, 170，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：147, 169，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：146, 168，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：145, 167，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：145, 166，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：145, 165，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：145, 164，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：145, 163，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：145, 162，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：145, 161，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：146, 160，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：146, 159，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：147, 158，abaa大小：826, 458
+[16:45:00] [INFO] [Thread.Main]: abaaawaabaa位置：148, 158，abaa大小：826, 458
+[16:45:01] [INFO] [Thread.Main]: abaaawaabaa位置：149, 157，abaa大小：826, 458
+[16:45:01] [INFO] [Thread.Main]: abaaawaabaa位置：150, 156，abaa大小：826, 458
+[16:45:01] [INFO] [Thread.Main]: abaaawaabaa位置：152, 155，abaa大小：826, 458
+[16:45:01] [INFO] [Thread.Main]: abaaawaabaa位置：153, 155，abaa大小：826, 458
+[16:45:01] [INFO] [Thread.Main]: abaaawaabaa位置：154, 155，abaa大小：826, 458
+[16:45:01] [INFO] [Thread.Main]: abaaawaabaa位置：155, 155，abaa大小：826, 458
+[16:45:01] [INFO] [Thread.Main]: abaaawaabaa位置：156, 154，abaa大小：826, 458
+[16:45:01] [INFO] [Thread.Main]: abaaawaabaa位置：157, 154，abaa大小：826, 458
+[16:45:01] [INFO] [Thread.Main]: abaa窗体大小改变，abaa位置：157, 154，abaa大小：827, 458
+[16:45:01] [INFO] [Thread.Main]: abaa窗体大小改变，abaa位置：157, 154，abaa大小：829, 458
+[16:45:01] [INFO] [Thread.Main]: abaa窗体大小改变，abaa位置：157, 154，abaa大小：835, 458
+[16:45:01] [INFO] [Thread.Main]: abaa窗体大小改变，abaa位置：157, 154，abaa大小：839, 458
+[16:45:01] [INFO] [Thread.Main]: abaa窗体大小改变，abaa位置：157, 154，abaa大小：840, 458
+[16:45:01] [INFO] [Thread.Main]: abaa窗体大小改变，abaa位置：157, 154，abaa大小：842, 458
+[16:45:01] [INFO] [Thread.Main]: abaa窗体大小改变，abaa位置：157, 154，abaa大小：845, 458
+[16:45:01] [INFO] [Thread.Main]: abaa窗体大小改变，abaa位置：157, 154，abaa大小：846, 458
+[16:45:01] [INFO] [Thread.Main]: abaa窗体大小改变，abaa位置：157, 154，abaa大小：847, 458
+[16:45:01] [INFO] [Thread.Main]: abaa窗体大小改变，abaa位置：157, 154，abaa大小：849, 458
+[16:45:01] [INFO] [Thread.Main]: abaa窗体大小改变，abaa位置：157, 154，abaa大小：848, 458
+[16:45:01] [INFO] [Thread.Main]: abaa窗体大小改变，abaa位置：157, 154，abaa大小：844, 458

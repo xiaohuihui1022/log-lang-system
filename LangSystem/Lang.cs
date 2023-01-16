@@ -45,13 +45,14 @@ namespace LangSystem
         /// <summary>
         /// 初始化插件
         /// </summary>
-        public void Init()
+        public bool Init()
         {
             if (CheckInitType("checkinit"))
             {
                 NowTypeIndex = int.Parse(ini.INIRead("langSys", "NowTypeIndex", @".\lang\settings.ini"));
                 CheckInitType("checklangtype");
-                return;
+                // 代表已经init过了，无需再次init
+                return false;
             }
             if (!Directory.Exists(@".\lang\"))
             {
@@ -61,6 +62,7 @@ namespace LangSystem
             log.TimeShowSet(true);
             // log.Info("语言模块已加载");
             ini.INIWrite("langSys", "IsInit", "true", @".\lang\settings.ini");
+            return true;
         }
         /// <summary>
         /// 设置语种
@@ -101,6 +103,30 @@ namespace LangSystem
             try
             {
                 ini.INIWrite("lang", INIPointer, LangStr, @".\lang\" + LangTypeText[CreateTypeIndex] + ".ini");
+                // log.Info("已为语种 " + LangTypeText[CreateTypeIndex] + " 写入值 " + INIPointer);
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
+        /// <summary>
+        /// CreateLangStr
+        /// 向INI写入 缩写模式 with section
+        /// </summary>
+        /// <param name="LangStr">欲写入文本</param>
+        /// <param name="section">欲写入section</param>
+        /// <param name="INIPointer">欲写入值</param>
+        public void CLS(string LangStr, string section,string INIPointer)
+        {
+            if (CheckInitType("bool") == false)
+            {
+                return;
+            }
+            try
+            {
+                ini.INIWrite(section, INIPointer, LangStr, @".\lang\" + LangTypeText[CreateTypeIndex] + ".ini");
                 // log.Info("已为语种 " + LangTypeText[CreateTypeIndex] + " 写入值 " + INIPointer);
             }
             catch
@@ -159,6 +185,32 @@ namespace LangSystem
         }
 
         /// <summary>
+        /// ReadLangStr
+        /// 读字符串 缩写模式 with section
+        /// </summary>
+        /// <param name="section">欲读section</param>
+        /// <param name="INIPointer">欲读值</param>
+        /// <returns></returns>
+        public string RLS(string section, string INIPointer)
+        {
+            if (CheckInitType("bool") == false)
+            {
+                return "";
+            }
+            try
+            {
+                // log.Info("已从语种 " + LangTypeText[NowTypeIndex] + " 读出值 " + INIPointer);
+                return ini.INIRead(section, INIPointer, @".\lang\" + LangTypeText[NowTypeIndex] + ".ini");
+            }
+            catch
+            {
+                log.Error("程序出现了一个致命错误！可能是您的INIPointer或LangTypeIndex没填对。");
+                throw;
+            }
+
+        }
+
+        /// <summary>
         /// ChangeReadLangType
         /// 设置NowType(即现在的语种)设置完需要重启 缩写模式
         /// </summary>
@@ -207,6 +259,17 @@ namespace LangSystem
         }
 
         /// <summary>
+        /// 向INI写入 with section
+        /// </summary>
+        /// <param name="LangStr">欲写入文本</param>
+        /// <param name="section">欲写入section</param>
+        /// <param name="INIPointer">欲写入值</param>
+        public void CreateLangStr(string LangStr, string section, string INIPointer)
+        {
+            CLS(LangStr, section, INIPointer);
+        }
+
+        /// <summary>
         /// 设置NowType(即现在的语种)设置完需要重启
         /// </summary>
         /// <param name="ToChangeIndex">欲修改的语种数组下标</param>
@@ -233,6 +296,17 @@ namespace LangSystem
         {
             return RLS(INIPointer);
         }
+
+        /// <summary>
+        /// 读字符串 with section
+        /// </summary>
+        /// <param name="section">欲读section</param>
+        /// <param name="INIPointer">欲读值</param>
+        /// <returns></returns>
+        public string ReadLangStr(string section, string INIPointer)
+        {
+            return RLS(section, INIPointer);
+        }
         #endregion
 
         #region 私有类/重复使用类
@@ -246,7 +320,7 @@ namespace LangSystem
             if (mode == "checkinit")
             {
                 log.TimeShowSet(true);
-                if (Directory.Exists(@".\lang\"))
+                if (File.Exists(@".\lang\settings.ini"))
                 {
                     if (ini.INIRead("langSys", "IsInit", @".\lang\settings.ini") == "true")
                     {

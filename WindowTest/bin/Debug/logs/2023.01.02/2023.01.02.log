@@ -1,0 +1,80 @@
+[19:13:29] [INFO] [Thread.Main]: awa
+[19:13:29] [WARN] [Thread.Main]: 糟糕！程序出现了一些故障。
+[19:13:29] [ERROR] [Thread.Main]: 糟糕，程序有错误了！
+[19:13:29] [INFO] [Thread.Main]: awa
+[19:13:29] [WARN] [Thread.Main]: Whopps, the program seems to have an warning
+[19:13:29] [ERROR] [Thread.Main]: Whopps, the program has set off and thrown the error.
+[19:13:29] [INFO] [Thread.Main]: awa
+[19:13:29] [WARN] [Thread.Main]: 糟糕！程序出现了一些故障。
+[19:13:29] [ERROR] [Thread.Main]: 糟糕，程序有错误了！
+[19:13:29] [INFO] [Thread.Main]: awa
+[19:13:54] [INFO] [Thread.Main]: 语言已切换为:Chinese
+[19:13:54] [INFO] [Thread.Main]: 窗体位置移动，位置：75, 75，大小：826, 458
+[19:13:54] [INFO] [Thread.Main]: 已开启窗口
+[19:13:54] [INFO] [Thread.Main]: 窗体位置移动，位置：80, 77，大小：826, 458
+[19:13:54] [INFO] [Thread.Main]: 窗体位置移动，位置：88, 78，大小：826, 458
+[19:13:54] [INFO] [Thread.Main]: 窗体位置移动，位置：93, 79，大小：826, 458
+[19:13:54] [INFO] [Thread.Main]: 窗体位置移动，位置：96, 81，大小：826, 458
+[19:13:54] [INFO] [Thread.Main]: 窗体位置移动，位置：98, 83，大小：826, 458
+[19:13:54] [INFO] [Thread.Main]: 窗体位置移动，位置：99, 85，大小：826, 458
+[19:13:54] [INFO] [Thread.Main]: 窗体位置移动，位置：100, 86，大小：826, 458
+[19:14:01] [INFO] [Thread.Main]: abaa语言已切换为:abaa
+[19:14:01] [INFO] [Thread.Main]: abaaawaabaa位置：100, 91，abaa大小：826, 458
+[19:14:01] [INFO] [Thread.Main]: abaaawaabaa位置：100, 95，abaa大小：826, 458
+[19:14:01] [INFO] [Thread.Main]: abaaawaabaa位置：102, 99，abaa大小：826, 458
+[19:14:01] [INFO] [Thread.Main]: abaaawaabaa位置：104, 99，abaa大小：826, 458
+[19:14:01] [INFO] [Thread.Main]: abaaawaabaa位置：105, 99，abaa大小：826, 458
+[19:14:01] [INFO] [Thread.Main]: abaaawaabaa位置：106, 99，abaa大小：826, 458
+[19:14:01] [INFO] [Thread.Main]: abaaawaabaa位置：108, 99，abaa大小：826, 458
+[19:14:01] [INFO] [Thread.Main]: abaaawaabaa位置：109, 99，abaa大小：826, 458
+[19:14:01] [INFO] [Thread.Main]: Lang has been changed to:English
+[19:14:05] [INFO] [Thread.Main]: Window's location has been moved，Location:116, 103，Size:826, 458
+[19:14:05] [INFO] [Thread.Main]: Window's location has been moved，Location:130, 109，Size:826, 458
+[19:14:05] [INFO] [Thread.Main]: Window's location has been moved，Location:142, 112，Size:826, 458
+[19:14:05] [INFO] [Thread.Main]: Window's location has been moved，Location:145, 113，Size:826, 458
+[19:14:05] [INFO] [Thread.Main]: Window's location has been moved，Location:150, 114，Size:826, 458
+[19:14:05] [INFO] [Thread.Main]: Window's location has been moved，Location:158, 115，Size:826, 458
+[19:14:05] [INFO] [Thread.Main]: Window's location has been moved，Location:164, 117，Size:826, 458
+[19:14:05] [INFO] [Thread.Main]: Window's location has been moved，Location:165, 117，Size:826, 458
+[19:14:05] [INFO] [Thread.Main]: Window's location has been moved，Location:167, 117，Size:826, 458
+[19:14:05] [INFO] [Thread.Main]: Window's location has been moved，Location:170, 118，Size:826, 458
+[19:14:07] [INFO] [Thread.Main]: Window's location has been moved，Location:171, 118，Size:826, 458
+[19:14:07] [INFO] [Thread.Main]: Window's location has been moved，Location:172, 119，Size:826, 458
+[19:14:07] [INFO] [Thread.Main]: Window's location has been moved，Location:174, 119，Size:826, 458
+[19:14:07] [INFO] [Thread.Main]: Window's location has been moved，Location:174, 120，Size:826, 458
+[19:14:07] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:828, 458
+[19:14:07] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:832, 458
+[19:14:07] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:833, 458
+[19:14:07] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:863, 458
+[19:14:07] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:912, 458
+[19:14:07] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:913, 458
+[19:14:35] [INFO] [Thread.Main]: Window:Log Viewer has been opened
+[19:14:35] [INFO] [Thread.Main]: Window:Log has been opened
+[19:14:35] [INFO] [Thread.Main]: Window's location has been moved，Location:-32000, -32000，Size:160, 27
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:-32000, -32000，Size:160, 27
+[19:14:35] [INFO] [Thread.Main]: Window's location has been moved，Location:174, 120，Size:913, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:913, 458
+[19:14:35] [INFO] [Thread.Main]: Window:Log Viewer has been opened
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:912, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:890, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:860, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:827, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:808, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:802, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:801, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:793, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:789, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:787, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:783, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:770, 458
+[19:14:35] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:752, 458
+[19:14:36] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:734, 458
+[19:14:36] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:728, 458
+[19:14:36] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:727, 458
+[19:14:36] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:716, 458
+[19:14:36] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:704, 458
+[19:14:36] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:699, 458
+[19:14:36] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:701, 458
+[19:14:36] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:736, 458
+[19:14:36] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:794, 458
+[19:14:36] [INFO] [Thread.Main]: Window's size has been changed，Location:174, 120，Size:836, 458
