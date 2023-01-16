@@ -31,16 +31,6 @@ namespace LogLangTest
                 log.Error(lang.RLS("log.ukerror"));
                 Thread.Sleep(100);
             }
-            
-            /*
-            log.Info(lang.RLS("window.clw"));
-            LangGs lgs = new LangGs
-            {
-                LangGS = lang
-            };
-            ChangeLangWin c = new ChangeLangWin();
-            c.Show();
-            */
         }
         static void LangInit()
         {
